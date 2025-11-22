@@ -1,0 +1,5 @@
+{
+  "name": "NCI Psyop Scoring System",
+  "description": "A professional analysis tool implementing the NCI Engineered Reality Scoring System (PSYOPS Identification) to evaluate information for signs of manipulation using AI assistance.",
+  "requestFramePermissions": []
+}
