@@ -225,11 +225,11 @@ const App: React.FC = () => {
                 NCI
              </div>
              <div>
-                <h1 className="font-bold text-lg leading-tight tracking-wide text-slate-100">PYSOPS DETECTOR</h1>
-                <p className="text-[10px] font-mono text-slate-400 tracking-widest">CAREY DESIGN LABS</p>
+                <h1 className="font-bold text-lg leading-tight tracking-wide text-slate-100">GOOGLE Gemini App - PYSOPS DETECTOR SCORING SYSTEM</h1>
+                <p className="text-[10px] font-mono text-slate-400 tracking-widest">MRC2020 DESIGN LABS</p>
              </div>
           </div>
-          <a href="#" className="text-xs font-mono text-slate-500 hover:text-slate-300">DOC #319</a>
+          <a href="#" className="text-xs font-mono text-slate-500 hover:text-slate-300">Google AI Studio</a>
         </div>
       </header>
 
@@ -247,7 +247,7 @@ const App: React.FC = () => {
             <div className="flex justify-between items-center mb-4">
               <h3 className="text-sm font-bold text-slate-400 uppercase font-mono flex items-center gap-2">
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path></svg>
-                AI Analysis Tool
+                GEMINI Psyop Analysis
               </h3>
               
               <div className="relative">
@@ -400,7 +400,7 @@ const App: React.FC = () => {
           </div>
 
           <div className="mt-8 p-4 border-t border-slate-800 text-center text-slate-600 text-xs">
-            &copy; APPLIED BEHAVIOR RESEARCH . 2024 | NCI UNIVERSITY GRAD SCHOOL RESOURCE 319
+            &copy; GOOGLE GEMINI AI APP . 2025 | MRC2020 NCI PSYOP SCORING SYSTEM
           </div>
         </div>
 
